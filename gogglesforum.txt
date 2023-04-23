@@ -1,0 +1,11 @@
+! name: Boost Forums Extra
+! description: Boost forums and discussion boards extra
+! public: true
+! author: Forum Lover
+! avatar: #f0ff00
+
+/discourse.$boost=10
+/forum.$boost=10
+/forums.$boost=10
+$boost=10,site=meta.discourse.org
+$site=reddit.com,boost=10
